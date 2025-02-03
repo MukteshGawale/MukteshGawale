@@ -25,12 +25,12 @@
 
 ### 🛠 Tech Stack  
 🔹 **Languages**: Python, R, SQL  
-🔹 **Machine Learning**: PyTorch, Regression, Classification, Clustering  
-🔹 **Data Visualization**: Power BI, Matplotlib, Seaborn  
+🔹 **Machine Learning**: Regression, Classification, Clustering  
+🔹 **Data Visualization**: Power BI, Matplotlib, Seaborn, Pandas, NumPy  
 🔹 **Databases**: MySQL  
 🔹 **Big Data Tools**: Apache Spark, Apache Hadoop  
-🔹 **Cloud Platforms**: AWS, Azure  
-🔹 **Statistical Analysis**: Regression Analysis, Hypothesis Testing  
+🔹 **Cloud Platforms**: AWS, Microsoft Azure  
+🔹 **Statistical Analysis**: Regression Analysis, Hypothesis Testing, GLM's 
 
 ---
 
