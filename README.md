@@ -46,18 +46,6 @@
 - 💻 **GitHub**: [MukteshGawale](https://github.com/MukteshGawale)  
 - 📧 **Email**: [mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)  
 
----
-
-### 🚀 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukteshGawale&show_icons=true&theme=radical" alt="Muktesh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukteshGawale&theme=radical" alt="Muktesh's GitHub Streak" />
-</p>
-
----
 
 ### 🌱 Fun Fact  
 _"Data is the new oil, but it’s useless if you don’t refine it!"_  
