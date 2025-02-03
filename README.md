@@ -41,10 +41,8 @@
 
 ---
 
-### 📫 Connect With Me  
-- 🔗 **LinkedIn**: [Muktesh Gawale](https://www.linkedin.com/in/muktesh-gawale/)  
-- 💻 **GitHub**: [MukteshGawale](https://github.com/MukteshGawale)  
-- 📧 **Email**: [mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)  
+### 🎯 Career Goals  
+- 🚀 As a recent MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Machine Learning, Big Data, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimize decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis
 
 
 ### 🌱 Fun Fact  
