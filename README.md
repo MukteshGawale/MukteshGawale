@@ -9,7 +9,7 @@
 ### 📌 About Me  
 - 🎓 MSc **Data Science** graduate from **University of Nottingham, UK**  
 - 💡 Passionate about **Data Science, Machine Learning, Big Data, and Predictive Analytics**  
-- 🛠 Skilled in **Python, R, SQL, PySpark, Power BI, and Cloud Platforms (AWS, Azure)**  
+- 🛠 Skilled in **Python, R, SQL, ML, Power BI, and Cloud Platforms**  
 - 🌍 Always open to collaborating on **data-driven innovations** and **scalable & impactfull solutions**  
 - 📫 Reach me at: **[mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)**  
 
