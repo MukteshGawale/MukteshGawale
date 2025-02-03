@@ -14,7 +14,10 @@
 - 📫 Reach me at: **[mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)**  
 
 ---
+### 🎯 Career Goals  
+- 🚀 As a recent MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimise decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
 
+---
 ### 🔍 What I've Worked On  
 - 🤖 **Advanced Machine Learning Techniques**: Utilised **Advanced ML algorithms** for predictive modeling, achieving high accuracy on complex datasets.  
 - 🛢️ **Data Analysis using SQL**: Extracted meaningful insights from **large-scale datasets** to support decision-making.  
@@ -40,10 +43,6 @@
 - 🐍 **Anaconda Python for Data Science** ([View](https://www.linkedin.com/learning/certificates/a243b4f9fb1c78eff06f216cf2557acceba2aac0d7e436607dd450f3e7c42327))  
 
 ---
-
-### 🎯 Career Goals  
-- 🚀 As a recent MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Machine Learning, Big Data, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimize decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis
-
 
 ### 🌱 Fun Fact  
 _"Data is the new oil, but it’s useless if you don’t refine it!"_  
