@@ -18,7 +18,7 @@
 - 🚀 As an MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimise decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
 
 ---
-### 🔍 What I've Worked On  
+### 🔍 Projects I've Worked On  
 - 🤖 **Advanced Machine Learning Techniques**: Utilised **Advanced ML algorithms** for predictive modeling, achieving high accuracy on complex datasets.  
 - 🛢️ **Data Analysis using SQL**: Extracted meaningful insights from **large-scale datasets** to support decision-making.  
 - 📊 **Data Analysis & Visualization**: Transformed raw data into **compelling visual narratives**.  
