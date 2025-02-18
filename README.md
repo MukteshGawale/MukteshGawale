@@ -15,7 +15,7 @@
 
 ---
 ### 🎯 Career Goals  
-- 🚀 As an MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimise decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
+🚀 As an MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimise decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
 
 ---
 ### 🔍 Projects I've Worked On  
