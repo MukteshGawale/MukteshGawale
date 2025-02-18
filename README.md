@@ -40,6 +40,7 @@
 ### 🎖 Certifications  
 - 🏅 **AWS Cloud Essentials** ([View](https://www.credly.com/badges/fd3fd552-bde4-4a55-a6ad-7a0dd79e9fb0/public_url))  
 - 📊 **Google Analytics** ([View](https://skillshop.credential.net/1f4a8d4e-f69a-4ebf-a896-79014473ff0f#acc.tJL4xsCv))  
+- 🤖 **AI Fundamentals** ([View](https://www.datacamp.com/skill-verification/AIF0020112748607))
 - 🐍 **Anaconda Python for Data Science** ([View](https://www.linkedin.com/learning/certificates/a243b4f9fb1c78eff06f216cf2557acceba2aac0d7e436607dd450f3e7c42327))  
 
 ---
