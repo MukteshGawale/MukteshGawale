@@ -1,21 +1,21 @@
 <h1 align="center">Hii there! 👋 I'm Muktesh Gawale</h1>
 
 <p align="center">
-  <b> Data Scientist | Machine Learning | Cloud & Predictive Analytics</b>
+  <b> Data Scientist | Machine Learning | AI | Cloud & Predictive Analytics</b>
 </p>
 
 ---
 
 ### 📌 About Me  
 - 🎓 MSc **Data Science** graduate from **University of Nottingham, UK**  
-- 💡 Passionate about **Data Science, Machine Learning, Big Data, and Predictive Analytics**  
+- 💡 Passionate about **Data Science, Machine Learning, AI, Big Data, and Predictive Analytics**  
 - 🛠 Skilled in **Python, R, SQL, ML, Power BI, and Cloud Platforms**  
 - 🌍 Always open to collaborating on **data-driven innovations** and **scalable & impactfull solutions**  
 - 📫 Reach me at: **[mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)**  
 
 ---
 ### 🎯 Career Goals  
-🚀 As an MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, and Predictive Analytics to real-world challenges. My goal is to work on data-driven solutions that optimise decision-making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
+🚀 As an MSc Data Science graduate from the University of Nottingham, I am eager to apply my knowledge in Data Science, Machine Learning, AI and Predictive Analytics to real world challenges. My goal is to work on data driven solutions that optimise decision making, enhance efficiency, and contribute to innovation in industries leveraging AI, Cloud Computing, and Statistical Analysis.
 
 ---
 ### 🔍 Projects I've Worked On  
