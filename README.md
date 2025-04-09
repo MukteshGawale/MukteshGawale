@@ -19,10 +19,12 @@
 
 ---
 ### 🔍 Projects I've Worked On  
-- 🤖 **Advanced Machine Learning Techniques**: Utilised **Advanced ML algorithms** for predictive modeling, achieving high accuracy on complex datasets.  
-- 🛢️ **Data Analysis using SQL**: Extracted meaningful insights from **large-scale datasets** to support decision-making.  
-- 📊 **Data Analysis & Visualization**: Transformed raw data into **compelling visual narratives**.  
-- 📈 **R & Statistics Projects**: Implemented **statistical models** to solve real-world problems using **hypothesis testing, regression analysis, and probability models**.  
+- 🤖 **Advanced Machine Learning & AI Techniques**: Applied **cutting-edge ML and AI algorithms** for predictive modeling, achieving high accuracy on complex, real world datasets.
+- 🧠 **Natural Language Processing (NLP)**: Built NLP pipelines for **text classification, sentiment analysis**, and **entity recognition**, enhancing the ability to extract insights from unstructured text data.
+- 🛢️ **Data Analysis using SQL**: Extracted actionable insights from **large-scale relational datasets** to support business and technical decision making.
+- 📊 **Data Analysis & Visualization**: Translated raw data into **clear, compelling visual narratives** using tools like **Python, R**, and BI platforms such as **Tableau and Power BI**.
+- 📈 **R, Statistics & AI Projects**: Developed and deployed **statistical and AI models** leveraging **hypothesis testing, regression, probabilistic reasoning**, and **machine learning** to solve real world problems.
+
 
 ---
 
