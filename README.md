@@ -33,7 +33,7 @@
 🔹 **Machine Learning**: Regression, Classification, Clustering  
 🔹 **Data Visualization**: Looker, Power BI, Matplotlib, Seaborn, Pandas, NumPy  
 🔹 **Databases**: MySQL  
-🔹 **Cloud Platforms**: AWS, GCP
+🔹 **Cloud Platforms**: AWS, GCP  
 🔹 **Statistical Analysis**: Regression Analysis, Hypothesis Testing, GLM's 
 
 ---
