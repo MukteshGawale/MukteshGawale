@@ -8,8 +8,8 @@
 
 ### 📌 About Me  
 - 🎓 MSc **Data Science** graduate from **University of Nottingham, UK**  
-- 💡 Passionate about **Data Science, Machine Learning, AI, NLP, LLM, Big Data, and Predictive Analytics**  
-- 🛠 Skilled in **Python, R, SQL, ML, AI, NLP, Power BI, and Cloud Platforms**  
+- 💡 Passionate about **Data Science, Machine Learning, AI, LLM, Big Data, and Predictive Analytics**  
+- 🛠 Skilled in **Python, SQL, ML, AI, Airflow, Power BI, and Cloud Platforms**  
 - 🌍 Always open to collaborating on **data-driven innovations** and **scalable & impactfull solutions**  
 - 📫 Reach me at: **[mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)**  
 
@@ -22,19 +22,18 @@
 - 🤖 **Advanced Machine Learning & AI Techniques**: Applied **cutting-edge ML and AI algorithms** for predictive modeling, achieving high accuracy on complex, real world datasets.
 - 🧠 **Natural Language Processing (NLP)**: Built NLP pipelines for **text classification, sentiment analysis**, and **entity recognition**, enhancing the ability to extract insights from unstructured text data.
 - 🛢️ **Data Analysis using SQL**: Extracted actionable insights from **large-scale relational datasets** to support business and technical decision making.
-- 📊 **Data Analysis & Visualization**: Translated raw data into **clear, compelling visual narratives** using tools like **Python, R**, and BI platforms such as **Tableau and Power BI**.
+- 📊 **Data Analysis & Visualization**: Translated raw data into **clear, compelling visual narratives** using **Python, R**, and BI platforms such as **Looker and Power BI**.
 - 📈 **R, Statistics & AI Projects**: Developed and deployed **statistical and AI models** leveraging **hypothesis testing, regression, probabilistic reasoning**, and **machine learning** to solve real world problems.
 
 
 ---
 
 ### 🛠 Tech Stack  
-🔹 **Languages**: Python, R, SQL  
+🔹 **Languages**: Python, SQL  
 🔹 **Machine Learning**: Regression, Classification, Clustering  
-🔹 **Data Visualization**: Power BI, Matplotlib, Seaborn, Pandas, NumPy  
+🔹 **Data Visualization**: Looker, Power BI, Matplotlib, Seaborn, Pandas, NumPy  
 🔹 **Databases**: MySQL  
-🔹 **Big Data Tools**: Apache Spark, Apache Hadoop  
-🔹 **Cloud Platforms**: AWS, Microsoft Azure  
+🔹 **Cloud Platforms**: AWS, GCP
 🔹 **Statistical Analysis**: Regression Analysis, Hypothesis Testing, GLM's 
 
 ---
