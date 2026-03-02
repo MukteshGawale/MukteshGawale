@@ -9,7 +9,7 @@
 ### 📌 About Me  
 - 🎓 MSc **Data Science** graduate from **University of Nottingham, UK**  
 - 💡 Passionate about **Data Science, Machine Learning, AI, LLM, Big Data, and Predictive Analytics**  
-- 🛠 Skilled in **Python, SQL, ML, AI, Airflow, Power BI, and Cloud Platforms**  
+- 🛠 Skilled in **Python, SQL, ML, AI, Airflow, Looker, and Cloud Platforms**  
 - 🌍 Always open to collaborating on **data-driven innovations** and **scalable & impactfull solutions**  
 - 📫 Reach me at: **[mukteshgawale@gmail.com](mailto:mukteshgawale@gmail.com)**  
 
